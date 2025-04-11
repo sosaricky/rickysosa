@@ -1,6 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Inicio
 ---
+
+# Hola, soy [Tu Nombre].  
+
+**Desarrollador Frontend** con enfoque en diseño minimalista y funcional.  
+
+## Mis habilidades  
+- ✨ **Lenguajes**: JavaScript, HTML/CSS, Python.  
+- 🛠 **Herramientas**: React, Git, Jekyll.  
+- 🎨 **Diseño**: Interfaces crudas y accesibles.  
+
+[Ver proyectos](/proyectos){: .btn}  <!-- Botón opcional -->

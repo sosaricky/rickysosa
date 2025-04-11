@@ -1,18 +1,19 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: Sobre mí
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# ¿Quién soy?  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Soy un **desarrollador autodidacta** apasionado por crear soluciones simples pero efectivas.  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Mi trayectoria  
+- 🎸 **2020-Actualidad**: Músico y desarrollador freelance.  
+- 💻 **2023**: Certificación en Frontend (freeCodeCamp).  
+- 📍 **Ubicación**: Ciudad, País.  
 
+## Filosofía  
+> "Menos es más. El código debe ser legible como una poesía."  
+> "El desarrollador es un artista"
 
-[jekyll-organization]: https://github.com/jekyll
+[Contactarme](/contacto){: style="color: #ff5555;"}  <!-- Enlace con estilo inline -->

@@ -1,18 +1,7 @@
-title: "Mi Blog Moderno"
-description: "Un blog simple pero con estilo."
-baseurl: ""
-url: "https://tudominio.com"
-theme: minima  # Puedes eliminarlo si quieres personalizar todo
-
-# Plugins (útil para SEO, sitemap, etc)
-plugins:
-  - jekyll-feed
-
-# Personalización
 navigation:
   - title: Inicio
     url: /
   - title: Blog
     url: /blog/
-  - title: Sobre mí
-    url: /about/
+  - title: Contacto
+    url: /contacto/

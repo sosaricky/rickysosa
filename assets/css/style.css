@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+    nav {
+      padding: 1rem 0 !important;
+    }
+    nav a {
+      margin: 0 0.5rem !important;
+      font-size: 0.9rem;
+    }
+  }
