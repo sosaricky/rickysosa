@@ -2,6 +2,8 @@ navigation:
   - title: Inicio
     url: /
   - title: Blog
-    url: /blog/
+    url: /blog
   - title: Contacto
     url: /contacto/
+  - title: About 
+    url: /about
