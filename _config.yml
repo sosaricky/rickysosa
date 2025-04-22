@@ -7,3 +7,6 @@ navigation:
     url: /contacto/
   - title: About 
     url: /about
+
+markdown: kramdown  # Jekyll usa kramdown por defecto
+highlighter: rouge  # Motor de resaltado (viene con Jekyll)
