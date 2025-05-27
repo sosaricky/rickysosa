@@ -5,9 +5,9 @@ title: Inicio
 
 ## Hola, soy Ricky.  
 
-Professional tech chameleon
+¿Te gusta el tarot?
 
-¿Te gustan las recetas? . Podés generar una con esté proyecto que hice con ruby on rails
+ Pasate y date una tirada!
 
 
-[Recipe Generator](/recipegenerator){: .btn} 
+[TarotApp](https://apptarot.rickysosa.me){: .btn} 
