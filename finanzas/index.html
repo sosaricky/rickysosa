@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tus finanzas!</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        body {
+            background-color: #f5f7fa;
+        }
+        .navbar {
+            background: linear-gradient(90deg, #00b4d8, #0077b6);
+        }
+        .navbar-brand {
+            color: white;
+            font-weight: bold;
+        }
+        .offcanvas {
+            background-color: #ffffff;
+        }
+        .btn-primary, .btn-success {
+            width: 100%;
+            border-radius: 10px;
+        }
+        .card {
+            border-radius: 12px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navbar con menú hamburguesa -->
+    <nav class="navbar navbar-light">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuLateral">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="navbar-brand" href="#">💰 Finanzas Personales</a>
+        </div>
+    </nav>
+
+    <!-- Menú lateral (offcanvas) -->
+    <div class="offcanvas offcanvas-start" id="menuLateral">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title">Menú</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas"></button>
+        </div>
+        <div class="offcanvas-body">
+            <ul class="list-group">
+                <li class="list-group-item"><a href="#">📄 Perfil</a></li>
+                <li class="list-group-item"><a href="#">⚙️ Configuración</a></li>
+                <li class="list-group-item"><a href="#">📊 Estadísticas</a></li>
+                <li class="list-group-item"><a href="#">🎯 Metas de ahorro</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="container mt-4">
+        <!-- Registro de ingresos/gastos -->
+        <div class="card p-3">
+            <div class="card-header bg-primary text-white">Registrar Ingreso/Gasto</div>
+            <div class="card-body">
+                <form>
+                    <div class="mb-3">
+                        <label for="tipo" class="form-label">Tipo</label>
+                        <select class="form-select" id="tipo">
+                            <option value="ingreso">Ingreso</option>
+                            <option value="gasto">Gasto</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="categoria" class="form-label">Categoría</label>
+                        <select class="form-select" id="categoria">
+                            <option value="servicios">Servicios</option>
+                            <option value="comidas">Comidas</option>
+                            <option value="impuestos">Impuestos</option>
+                            <option value="salidas">Salidas</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="monto" class="form-label">Monto</label>
+                        <input type="number" class="form-control" id="monto">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                </form>
+            </div>
+        </div>
+
+        <!-- Sección de metas de ahorro -->
+        <div class="mt-4 card p-3">
+            <div class="card-header bg-success text-white">🎯 Metas de Ahorro</div>
+            <div class="card-body">
+                <p>Gestiona tus objetivos financieros y revisa el progreso.</p>
+                <button class="btn btn-success">Añadir Meta</button>
+            </div>
+        </div>
+
+        <!-- Alertas -->
+        <div class="alert alert-warning mt-4 text-center">
+            ⚠️ ¡Cuidado! Estás cerca de tu límite de gastos este mes.
+        </div>
+    </div>
+
+</body>
+</html>
