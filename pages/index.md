@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Inicio
+permalink: /
 ---
 
 ## Hola, soy Ricky.  
