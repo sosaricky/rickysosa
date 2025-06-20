@@ -3,6 +3,8 @@ navigation:
     url: /
   - title: Blog
     url: /blog
+  - title: Clases
+    url: /clases
   - title: Contacto
     url: /contacto/
   - title: About 
