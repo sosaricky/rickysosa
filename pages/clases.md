@@ -35,6 +35,7 @@ terminar la clase te envío un pdf con lo que estuvimos viendo.
 **Plataformas de clases particulares donde estoy**
 Si usas alguna plataforma de clases particulares, podés también encontrarme ahí. Sin embargo los precios serán más elevados respecto a una contratación directa conmigo (por las comisiones que cobran las plataformas.)
 
-Estoy en [ClassGap](https://www.classgap.com/es/tutor/raul-sosa)
-Estoy en [TusClases](https://www.tusclases.com.ar/profesores/raul-sosa.htm)
-Estoy en [Superprof](https://www.superprof.com.ar/clases-matematica-fisica-circuitos-electricos-para-estudiantes-secundarios-ingresos-universidades.html)
+Estoy en : 
+- [ClassGap](https://www.classgap.com/es/tutor/raul-sosa)
+- [TusClases](https://www.tusclases.com.ar/profesores/raul-sosa.htm)
+- [Superprof](https://www.superprof.com.ar/clases-matematica-fisica-circuitos-electricos-para-estudiantes-secundarios-ingresos-universidades.html)
