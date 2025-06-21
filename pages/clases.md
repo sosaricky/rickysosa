@@ -4,38 +4,64 @@ title: Clases
 permalink: /clases/
 ---
 
-*¿Necesitas ayuda on un trabajo práctico?, ¿se te viene un exámen encima y no sabés nada?, ¿queŕes ir llevando la materia al día?*
+<div align="center">
+<h1>¿Necesitás ayuda con un trabajo práctico?<br>
+¿Tenés un examen cerca y no sabés por dónde empezar?<br>  
+¿Querés llevar la materia al día sin sufrir al final del cuatrimestre?
+</h1>
+</div>
+---
 
-Te puedo ayudar con lo siguiente
+## ¡Te puedo ayudar con todo eso!
 
-* Matemática
-* Física
-* Química
-* Teoria de circuitos
-* Programación
-  
-Si lo que necesitás aprender no está acá , de todas maneras podes consultarme. Hay temas que los doy ocasionalmente, por lo que no los pongo como oferta fija.
+Doy clases personalizadas en las siguientes materias:
 
-**¿Cómo es la metodología de las clases?**
+- Matemática  
+- Física  
+- Química  
+- Teoría de circuitos  
+- Programación
 
-¡ Las clases son online ¡
+¿El tema que necesitás no está en la lista?  
+No hay problema. A veces doy clases sobre otros temas, según la demanda. Consultame sin compromiso.
 
-Nos conectamos a un meet de Google , y te comparto pantalla. Las explicaciones las hago con una tableta gráfica, por lo que al
-terminar la clase te envío un pdf con lo que estuvimos viendo.
+<p align="center">
+  <a href="https://wa.me/5491138240832" target="_blank" style="display:inline-block; padding:0.75em 1.5em; background:#25D366; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
+    Escribime por WhatsApp
+  </a>
+</p>
 
-**¿Cuales son los métodos de pago?**
+---
 
-- Si estás en Argentina :
-    - Mercadopago
-    - Transferencia bancaria
-- Si estás en otra parte del mundo:
-    - Paypal
-    - Cripto
-  
-**Plataformas de clases particulares donde estoy**
-Si usas alguna plataforma de clases particulares, podés también encontrarme ahí. Sin embargo los precios serán más elevados respecto a una contratación directa conmigo (por las comisiones que cobran las plataformas.)
+## 🧑‍🏫 ¿Cómo son las clases?
 
-Estoy en : 
-- [ClassGap](https://www.classgap.com/es/tutor/raul-sosa)
-- [TusClases](https://www.tusclases.com.ar/profesores/raul-sosa.htm)
-- [Superprof](https://www.superprof.com.ar/clases-matematica-fisica-circuitos-electricos-para-estudiantes-secundarios-ingresos-universidades.html)
+- **100% online.**  
+- Nos conectamos por Google Meet.  
+- Explico usando una tableta gráfica (¡como una pizarra!).  
+- Al terminar, te envío un PDF con todo lo que vimos en la clase.
+
+---
+
+## 💳 Formas de pago
+
+**Desde Argentina:**
+
+- Transferencia bancaria  
+- MercadoPago
+
+**Desde el exterior:**
+
+- PayPal  
+- Criptomonedas
+
+---
+
+## 📚 También podés encontrarme en plataformas de clases particulares
+
+> Si usás alguna de estas plataformas, podés contratarme ahí.  
+> *Tené en cuenta que los precios son más altos por las comisiones que cobran.*
+
+- ClassGap  
+- TusClases  
+- Superprof
+
