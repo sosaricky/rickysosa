@@ -26,7 +26,7 @@ Doy clases personalizadas en las siguientes materias:
 No hay problema. A veces doy clases sobre otros temas, según la demanda. Consultame sin compromiso.
 
 <p align="center">
-  <a href="https://wa.me/5491138240832" target="_blank" style="display:inline-block; padding:0.75em 1.5em; background:#25D366; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
+  <a href="https://wa.me/5491159615786" target="_blank" style="display:inline-block; padding:0.75em 1.5em; background:#25D366; color:white; text-decoration:none; border-radius:8px; font-weight:bold;">
     Escribime por WhatsApp
   </a>
 </p>
