@@ -13,7 +13,7 @@ permalink: /linktree-clases
   💬 Consultar por WhatsApp
 </a>
 
-<a href="/infoclases/" class="btn-tree btn-primary">
+<a href="/info-clases/" class="btn-tree btn-primary">
   ℹ️ Ver Info Detallada (Precios y Temas)
 </a>
 
