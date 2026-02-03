@@ -9,7 +9,7 @@ permalink: /linktree-clases
 <h1>Ricky Sosa</h1>
 <p class="bio">Estudiante UTN.<br>Te ayudo a aprobar tus finales de Febrero/Marzo/Cuando sea!. 🚀</p>
 
-<a href="https://wa.me/5491159615786?text=Hola%20Ricky,%20vengo%20de%20tu%20perfil%20y%20quiero%20info%20de%20clases" class="btn-tree btn-whatsapp">
+<a href="https://wa.me/5491138240832?text=Hola%20Ricky,%20vengo%20de%20tu%20perfil%20y%20quiero%20info%20de%20clases" class="btn-tree btn-whatsapp">
   💬 Consultar por WhatsApp
 </a>
 
