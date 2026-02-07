@@ -10,7 +10,7 @@ permalink: /clases
 <p class="bio">Clases particulares
 Matemática, Circuitos, Física, Química</p>
 
-<a href="https://wa.me/5491138240832?text=Hola%20Ricky,%20vengo%20de%20tu%20perfil%20y%20quiero%20info%20de%20clases" class="btn-tree btn-whatsapp">
+<a href="https://wa.me/message/DCKK6QD6QWXII1" class="btn-tree btn-whatsapp">
   💬 Consultar por WhatsApp
 </a>
 
