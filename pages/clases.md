@@ -1,7 +1,7 @@
 ---
 layout: linktree
 title: Ricky Sosa | Clases Particulares
-permalink: /linktree-clases
+permalink: /clases
 ---
 
 <img src="https://github.com/SosaRicky.png" alt="Ricky Sosa" class="profile-pic">
